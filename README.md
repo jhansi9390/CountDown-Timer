@@ -35,4 +35,8 @@ This project includes two Python-based Countdown Timer applications:
 ---
 
 ## 📂 Project Structure
+countdown-timer/
+├── console_countdown_timer.py # Console-based version
+├── gui_countdown_timer.py # GUI-based version
+├── README.md # Project documentation
 
